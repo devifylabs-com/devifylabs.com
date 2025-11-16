@@ -52,7 +52,7 @@ export const Header = ({ lenis }) => {
                     </Link> */}
                 </div>
                 <div className=''>
-                    <Link href="https://cal.com/Devify Labs" target="_blank" rel="noopener noreferrer">
+                    <Link href="https://cal.com/devifylabs" target="_blank" rel="noopener noreferrer">
                         <button className='text-xs rounded-full py-2.5 px-5 bg-orange-700 hover:bg-[#292929] text-white uppercase'>let’s discuss</button>
                     </Link>
                 </div>
